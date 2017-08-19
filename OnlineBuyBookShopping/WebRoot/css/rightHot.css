@@ -1,0 +1,48 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+#right{
+		height: 549px;
+		width: 246px;
+		margin-top:290px;
+	}
+	#rightHot_title{
+		display: block;
+		background: red;
+		width: 70px;
+		font-size: 18px;
+	}
+	#rightHot_title a{
+		color: white;
+	}
+	#rightHot{
+		height: 600px;
+		width: 246px;
+	}
+	#rightHot_top{
+		height: 30px;
+		line-height: 30px;
+		border: 1px solid #F5F2F0;
+		border-top:1px solid red;
+	}
+	#rightHot_top ul li{
+		width: 80px;
+		text-align: center;
+	}
+	.rightHot_parent {
+		height: 470px;
+		overflow: hidden; 
+		border: 1px solid #F5F2F0;
+	}
+	#rightHot_book{
+		
+		height: 35px;
+		line-height: 35px;
+	}
+	.f_f{
+		float: left;
+	}
+	.f_r{
+		float: right;
+	}

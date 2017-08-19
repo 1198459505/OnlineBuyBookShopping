@@ -1,0 +1,32 @@
+	.commen1{
+		height: 120px;
+		width: 246px;
+		display: none;
+		border: 1px solid #F5F2F0;
+	}
+	.commen1_name{
+		font-size: 16px;
+		height: 50px;
+	}
+	.commen1 img{
+		padding-left:30px;
+		height: 90px;
+		width: 76px;
+		float: left;
+	}
+	.commen1_author{
+		font-size: 14px;
+		height: 25px;
+	}
+	.commen1_author a{
+		color: #666695;
+	}
+	.commen1_name a{
+		color: black;
+	}
+	.commen1_privce{
+		color: red;
+	}
+	.commen1 dl dd a,span{
+		padding-left: 10px;
+	}

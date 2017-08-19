@@ -1,0 +1,17 @@
+#footer{
+	height:100px;
+	width:100%;
+}
+.footer_top{
+    width:100%;
+    margin:0px auto 0px auto;
+    clear:both;
+    text-align:center;
+}
+.footer_top{
+    color:#9B2B0F;
+}
+.footer_dull_red,.footer_dull_red:hover{
+    color:#9B2B0F;
+    margin:0px 8px 0px 8px;
+}

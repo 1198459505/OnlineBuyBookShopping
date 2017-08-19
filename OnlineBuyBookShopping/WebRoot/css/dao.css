@@ -1,0 +1,178 @@
+#dd{
+	margin-top:20px;
+}
+  #dao{
+   border-bottom-style:solid ;
+   border-bottom-color:#D9CFE5; 
+    border-bottom-width: 1px;
+  }
+  #dao ul{
+     width: 100%;
+     height: 30px;
+  }
+  #dao ul li{
+      text-align: center;
+      float: left;
+      line-height: 30px;
+      font-size: 14px;
+      font-weight: bold;
+  }
+  #dao ul li a{
+      color: black;
+      display:block;
+      width: 70px;
+  }
+  #dao ul li a:hover{
+      color: #00C29A;
+      border-bottom:2px solid #00C29A;
+  }
+  #dao ul .li2{
+      margin-left:40px;
+  }
+  .li1{
+     margin-left: 240px;
+  }
+  #dao_2{
+    width: 18%;
+    margin-left:60px; 
+    margin-top: 1px;
+  }
+  #dao_2 dl{
+    width: 100%;
+    height: 100px;
+  }
+  #dao_2 dl dd{
+    float: left;
+    margin-left:20px;
+    font-size: 13px; 
+  }
+  #dao_2 a{
+    color: black;
+  }
+  #dao_2 dt{
+    font-weight: bold;
+  }
+  .dl_1{
+    background-color:#F6F6F6 ;
+
+  }
+  .dl_2{
+    background:#E9E7E6 ;
+  }
+
+
+
+  #solidDoor ul{
+      width:175px;
+      height: 5px;
+      position: absolute;
+      bottom:10px;
+      right: 300px;
+  }
+  #solidDoor ul li{
+      width:25px;
+      line-height: 5px;
+      font-size: 20px;
+      height: 5px;
+      float:left;
+      text-align: center;
+      margin-right: 8px;
+  }
+
+  
+  #parent{
+      width: 75%;
+      height: 240px;
+      position: relative;
+     
+  }
+  #solidDoor{
+    width: 675px;
+    height: 240px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+  }
+  #photo{
+    width: 245px;
+    height: 240px;
+    position:  absolute;
+    bottom: 0px;
+    right: 70px;
+  }
+  #img6{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+
+  }
+  #img7{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+  }
+  #li_hover{
+    background: #FFFFFF;
+  }
+ #solidDoor ul li:hover{
+    background:#FFFFFF;
+  }
+  #li_link{
+    background: #BDBDBD;
+  }
+
+
+#parent_right{
+  height: 600px;
+  width: 93%;
+  margin-top: 264px;
+
+}
+
+#right{
+    height: 600px;
+    width: 246px;
+    margin-left: 695px;
+  }
+  #rightHot_title{
+    display: block;
+    background: red;
+    width: 70px;
+    font-size: 18px;
+    
+  }
+  #rightHot_title a{
+    color: white;
+  }
+  #rightHot{
+    height: 600px;
+    width: 246px;
+  }
+  #rightHot_top{
+    height: 30px;
+    line-height: 30px;
+    border: 1px solid #F5F2F0;
+    border-top:2px solid red;
+  }
+  #rightHot_top ul li{
+    width: 80px;
+    text-align: center;
+
+  }
+  .rightHot_parent {
+    height: 400px;
+    overflow: hidden;
+    border: 1px solid #F5F2F0;
+  }
+  .rightHot_parent ul li{
+    width: 246px;
+    height: 38px;
+    line-height: 38px;
+    border: 1px solid #F5F2F0;
+  }
+  #f_f{
+    float: left;
+  }
+  #f_r{
+    float: right;
+  }
